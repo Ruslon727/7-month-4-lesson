@@ -1,0 +1,17 @@
+{
+  "users": [{
+    "username": "ruslonkomilov@gmail.com",
+    "password": "717"
+  }],
+  "organization": [
+    {
+      "id": "5583",
+      "name": "KEYARIX DFX",
+      "inn": "717727737",
+      "director": "Ruslonbek Komilov",
+      "address": "Toshkent, Manzara 9",
+      "createdAt": "2024-11-13",
+      "status": true
+    }
+  ]
+}

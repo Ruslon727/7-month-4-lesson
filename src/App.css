@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+    --bg-clr:rgb(139, 119, 0)
+}
+
+.ant-btn {
+    background-color: var(--bg-clr) !important;
+}
+
+.ant-btn > span {
+    color: white !important;
+}
+
+.ant-btn:hover{
+    border-color: var(--bg-clr);
+}
+
+.ant-scroll-number {
+    background-color: var(--bg-clr) !important;
+}
+
+.ant-menu-item-selected{
+    background-color: var(--bg-clr) !important;
+}
+.ant-spin-dot-holder{
+    color: var(--bg-clr) !important;
+}
+.delete-btn{
+    background-color: red !important;
+}
+.update-btn{
+    background-color: blue !important;
+}
+.ant-form{
+    width: 500px;
+    text-align: center;
+}
